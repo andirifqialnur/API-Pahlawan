@@ -236,7 +236,7 @@ if (isset($_POST['name']) and isset($_POST['email']) and isset($_POST['subject']
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-heading">
-                        <h2>Request a <em>call back</em></h2>
+                        <h2>Send us <em>a response</em></h2>
                         <span>Please let us know your experince and also your suggestion</span>
                     </div>
                 </div>
