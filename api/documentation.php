@@ -142,7 +142,7 @@ function generate_token($username, $password)
                 </h3>
                 <ul>
                     <li>URL<ul>
-                            <li><code>/search.php</code></li>
+                            <li><code>search.php</code></li>
                         </ul>
                     </li>
                     <li>Method<ul>
@@ -150,11 +150,10 @@ function generate_token($username, $password)
                         </ul>
                     </li>
                     <li>Headers<ul>
-                            <li><code>Content-Type</code>: <code>application/json</code></li>
-                            <li><code>Authorization</code>: <code>Bearer &lt;token&gt;</code></li>
+                            <li><code>key</code>: <code>[your_token]</code></li>
                         </ul>
                     </li>
-                    <li>Request Body<ul>
+                    <li>Parameters<ul>
                             <li><code>nama</code> as <code>string</code></li>
                         </ul>
                     </li>
@@ -183,7 +182,7 @@ function generate_token($username, $password)
                             Data</span></a></h3>
                 <ul>
                     <li>URL<ul>
-                            <li><code>/getOneData.php</code></li>
+                            <li><code>getOneData.php</code></li>
                         </ul>
                     </li>
                     <li>Method<ul>
@@ -191,11 +190,10 @@ function generate_token($username, $password)
                         </ul>
                     </li>
                     <li>Headers<ul>
-                            <li><code>Content-Type</code>: <code>application/json</code></li>
-                            <li><code>Authorization</code>: <code>Bearer &lt;token&gt;</code></li>
+                            <li><code>key</code>: <code>[your_token]</code></li>
                         </ul>
                     </li>
-                    <li>Request Body<ul>
+                    <li>Parameters<ul>
                             <li><code>id</code> as <code>int</code></li>
                         </ul>
                     </li>
@@ -224,7 +222,7 @@ function generate_token($username, $password)
                             All Data</span></a></h3>
                 <ul>
                     <li>URL<ul>
-                            <li><code>/getAllData.php</code></li>
+                            <li><code>getAllData.php</code></li>
                         </ul>
                     </li>
                     <li>Method<ul>
@@ -232,8 +230,7 @@ function generate_token($username, $password)
                         </ul>
                     </li>
                     <li>Headers<ul>
-                            <li><code>Content-Type</code>: <code>application/json</code></li>
-                            <li><code>Authorization</code>: <code>Bearer &lt;token&gt;</code></li>
+                            <li><code>key</code>: <code>[your_token]</code></li>
                         </ul>
                     </li>
                     <li>Response

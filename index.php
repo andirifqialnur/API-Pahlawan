@@ -59,7 +59,7 @@ if (isset($_POST['name']) and isset($_POST['email']) and isset($_POST['subject']
         <nav class="navbar navbar-expand-lg">
             <div class="container">
                 <a class="navbar-brand" href="index.html">
-                    <h2>Restfull API</h2>
+                    <h2>Restful API</h2>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
                     aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -81,7 +81,7 @@ if (isset($_POST['name']) and isset($_POST['email']) and isset($_POST['subject']
             <div class="item item-1">
                 <div class="img-fill">
                     <div class="text-content">
-                        <h6>Fell free with the API</h6>
+                        <h6>Feel free with the API</h6>
                         <h4>API Pahlawan Nasional Indonesia</h4>
                         <p>This Api used for you so you can get all heros data and history in Indonesia.
                             You can make a history app or website heroes documentation. We get all data from Kaggel
@@ -169,7 +169,7 @@ if (isset($_POST['name']) and isset($_POST['email']) and isset($_POST['subject']
                             <div class="col-md-6 align-self-center">
                                 <div class="right-content">
                                     <span>Who we are</span>
-                                    <h2>Get to know about <em>our collague</em></h2>
+                                    <h2>Get to know about <em>our colleague</em></h2>
                                     <p>We are from State of Polytehnic Ujung Pandang in Makassar City, South Sulawesi,
                                         Indonesia and now we are currently in the sixth semester. <br><br>And this
                                         project is the final test for a website engineering course where we are trying
