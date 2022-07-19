@@ -136,7 +136,7 @@ function generate_token($username, $password)
 
                 <h2 id="endpoint"><a href="#endpoint" data-id="endpoint" class="anchor"><span>Endpoint</span></a>
                 </h2>
-                <p><a href="" target="_blank" rel="noopener">http://localhost/apipahlawan/api/</a></p>
+                <p style="color: #42b983; font-weight:bold;">http://localhost/apipahlawan/api/</p>
 
                 <h3 id="search"><a href="#search" data-id="search" class="anchor"><span>Search</span></a>
                 </h3>
