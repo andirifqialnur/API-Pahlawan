@@ -142,7 +142,7 @@ function generate_token($username, $password)
                 </h3>
                 <ul>
                     <li>URL<ul>
-                            <li><code>search.php</code></li>
+                            <li><code>http://localhost/apipahlawan/api/search.php</code></li>
                         </ul>
                     </li>
                     <li>Method<ul>
@@ -182,7 +182,7 @@ function generate_token($username, $password)
                             Data</span></a></h3>
                 <ul>
                     <li>URL<ul>
-                            <li><code>getOneData.php</code></li>
+                            <li><code>http://localhost/apipahlawan/api/getOneData.php</code></li>
                         </ul>
                     </li>
                     <li>Method<ul>
@@ -222,7 +222,7 @@ function generate_token($username, $password)
                             All Data</span></a></h3>
                 <ul>
                     <li>URL<ul>
-                            <li><code>getAllData.php</code></li>
+                            <li><code>http://localhost/apipahlawan/api/getAllData.php</code></li>
                         </ul>
                     </li>
                     <li>Method<ul>
